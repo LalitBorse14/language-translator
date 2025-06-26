@@ -42,7 +42,6 @@ const Translator = () => {
             <option value="mr">Marathi</option>
             <option value="fr">French</option>
             <option value="ta">Tamil</option>
-            <option value="gu">Gujrati</option>
           </select>
         </div>
 
