@@ -24,7 +24,7 @@ const Translator = () => {
 
   return (
     <div className="translator-container">
-      <h2>🌐 Translator (CI/CD deployed)</h2>
+      <h2>🌐 Language Translator (AWS Powered)</h2>
 
       <textarea
         value={text}
