@@ -24,7 +24,7 @@ const Translator = () => {
 
   return (
     <div className="translator-container">
-      <h2>🌐 Language Translator (AWS Powered)</h2>
+      <h2>🌐 Translator (CI/CD deployed)</h2>
 
       <textarea
         value={text}
@@ -42,6 +42,7 @@ const Translator = () => {
             <option value="mr">Marathi</option>
             <option value="fr">French</option>
             <option value="ta">Tamil</option>
+            <option value="gu">Gujrati</option>
           </select>
         </div>
 
@@ -54,6 +55,7 @@ const Translator = () => {
             <option value="mr">Marathi</option>
             <option value="ta">Tamil</option>
             <option value="gu">Gujarati</option>
+            <option value="de">Gremon</option>
           </select>
         </div>
       </div>
